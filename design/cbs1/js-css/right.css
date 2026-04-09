@@ -1,0 +1,284 @@
+#Right
+{
+	position: relative;
+	float: right;
+	top: 0px;
+	width: 190px;
+	height: 100%;
+	min-height: 100%;
+	margin: 0px;
+	padding: 0px 5px 40px 10px;
+	color: inherit;
+	font-size:  11px;
+	background-color: #F7F7F3;
+	border-top: 0px;
+  border-right: 1px solid #c1c1c1;
+	border-bottom: 0px solid #710D09;
+	border-left: 1px solid #c1c1c1;
+}
+
+#Right h1
+{
+	margin: 0px 0px 10px 0px;
+	padding: 0px 0px 2px 0px; 
+  color: #000000;
+	background-color: inherit;
+	border-bottom: 1px solid #c1c1c1;
+  text-transform: uppercase;
+	font-family: cbs-sans-bold, Arial, Verdana, Helvetica, Geneva, Lucida, sans-serif;
+	font-size:  20px;
+
+  font-weight: bold;
+	}
+
+#Right h2
+{
+	margin: 0px 0px 3px 0px;
+	padding: 0px 0px 0px 0px; 
+	color: #4967AA;
+	background-color: inherit;
+	font-family: cbs-sans-regular, Arial, Verdana, Helvetica, Geneva, Lucida, sans-serif;
+	font-size:  20px;
+	font-weight: normal;
+}
+
+#Right img
+{
+	margin: 0px 0px 10px 0px;
+	padding: 7px 0px 0px 0px;
+}
+
+#Right a
+{
+  color: #4967AA;
+	background-color: inherit;
+  text-decoration: none; 
+
+}
+
+#Right a h1
+{
+	color: #204a95;
+	background-color: inherit;
+}
+
+#Right a h2
+{
+	color: #204a95;
+	background-color: inherit;
+}
+
+#Right a:hover
+{
+	background-color: inherit;
+	text-decoration: underline;
+}
+
+#Right p
+{
+	margin: 0px;
+	padding: 0px;
+	font-size: 10px;
+}
+
+#Right .Link
+{
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+#Language
+{
+	float: right;
+	width: 50px;
+	margin: 0px;
+	padding: 7px 0px 0px 0px;
+	text-align: right;
+}
+
+#Language img
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#Language a
+{
+	padding: 0px 2px 0px 2px;
+}
+
+#Right hr
+{
+	color: #ffffff;
+	background-color: #ffffff;
+	border: 1px dotted #707070; 
+	border-style: none none dotted; 
+}
+
+#Right div.Newsbox
+{
+	margin: 0px;
+}
+
+#Right div.Infobox
+{
+	margin-top: 5px;
+	background-image: url(../../rh/images/border-ml.html);
+}
+
+#Right div.Infobox div.Outer 
+{
+	background-image: url(../../rh/images/border-mr.html);
+}
+
+#Right div.Infobox div.Title 
+{
+	padding: 3px 6px;
+  font-family: cbs-sans-bold, Arial, Verdana, Helvetica, Geneva, Lucida, sans-serif;
+  font-size:  20px;
+
+  font-weight: bold;
+  color: #000000;
+  border-bottom: 1px solid #C1C1C1;
+  text-transform: uppercase;
+}
+
+#Right div.Infobox div.Content
+{
+	margin: 0px;
+	padding: 5px;
+}
+
+#Right div.Infobox div.Content p
+{
+	margin: 0px;
+	padding: 0px 0px 5px 0px;
+}
+
+#Right div.Toolbar
+{
+	top: 0px;
+}
+
+#Right div.ToolBox:hover div.Toolbar
+{
+	display: block;
+}
+
+#Right div.NewsToolBox
+{
+	clear: both;
+	margin-top: 0px;
+}
+
+#Right div.NewsToolBox:hover div.Toolbar
+{
+	display: block;
+}
+
+#Right div.InfoToolBox
+{
+	padding: 0px 0px;
+	height: 12px;
+}
+
+#Right div.InfoToolBox div.Toolbar
+{
+	float: left;
+}
+
+#Right div.InfoToolBox:hover div.Toolbar
+{
+	display: block;
+}
+
+
+#Right div.ArticleBoxs
+{
+	border: 1px solid #D1D1C4;
+	padding: 5px;
+}
+
+#Right div.ArticleBoxs h3
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#Right div.ArticleBox
+{
+	margin: 5px 0px 5px 0px;
+	padding: 0px;
+}
+
+#Right div.Stats
+{
+	margin: 5px 0px 0px 0px;
+	padding: 5px 0px 5px 0px;
+	border-top: 1px solid #D1D1C4;
+}
+
+#Right div.Archive div
+{
+	font-size: 11px;
+	cursor: pointer;
+	margin: 0px;
+	padding: 0px 0px 0px 15px;
+	background-image:url(../../rh/images/sidemenu_bullet_open.html);
+	background-position:6px 5px;
+	background-repeat:no-repeat;
+}
+
+#Right div.Archive ul
+{
+	margin: 0px;
+	padding: 0px 0px 0px 15px;
+	list-style-type: none;
+}
+
+#Right div.Archive ul li
+{
+	margin: 1px 0px;
+	padding: 1px 0px 1px 15px;
+}
+
+#Right div.Archive div.Closed
+{
+	padding-left: 15px;
+	background-image:url(../../rh/images/sidemenu_bullet.html);
+	background-position:6px 5px;
+	background-repeat:no-repeat;
+}
+
+#Right div.Archive ul.Closed li
+{
+	display: none;
+}
+#Right div.Archive ul.Closed div
+{
+	display: none;
+}
+
+#Right div.Blogbox h3
+{
+	font-weight: normal;
+}
+
+#Right div.Blogbox h3 a
+{
+	font-weight: bold;
+}
+
+#Right div.Blogbox h3 a:visited
+{
+	font-weight: normal;
+}
+
+/*-------soerger for at paragraph laver span i stedet for p ------------ */
+#Content .paragraph-in-editor
+{
+        display:block;
+        margin:0px 0px 10px 0px;
+}
+

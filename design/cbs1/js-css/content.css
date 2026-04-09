@@ -1,0 +1,925 @@
+#Content
+{
+	position: relative;
+	float: left;
+	top: 0;
+
+	overflow: hidden;
+	width: 465px;
+	margin: 0px 20px 10px 20px;
+	padding: 0px;
+}
+
+#Home #Content
+{
+	overflow: hidden;
+	width: 665px;
+	margin: 0px 20px 10px 20px;
+	padding: 0px;
+}
+
+
+#Content a:visited
+{
+  color: #4967AA;
+}
+
+#Content div.Print a
+{
+   color: #4967AA;
+	padding: 0px 0px 0px 3px;
+}
+
+#Content p
+{
+	padding: 0px 10px 0px 0px;
+	margin: 0px 0px 10px 0px;
+}
+
+#Content h1
+{
+	color: #000000;
+	margin: 0px 0px 15px 0px;
+	padding: 23px 40px 0px 0px;
+	border-bottom: 1px solid #c1c1c1;
+	font-family: cbs-sans-bold, Arial, Verdana, Helvetica, Geneva, Lucida, sans-serif;
+	font-size: 22px;
+}
+
+#Content h2
+{
+	margin: 10px 0px 14px 0px;
+	padding: 0px 10px 0px 0px;
+	font-size: 14px;
+  color: #000000;
+}
+
+#Content h2.Title
+{
+	padding: 3px;
+	background-color: #ECECE9;
+}
+
+#Content h2.Links
+{
+	padding: 3px;
+}
+
+#Content .Title h2
+{
+	margin-bottom: 1px;
+}
+
+#Content h3
+{
+  color: #000000;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	font-size: 13px;
+}
+
+#Content h4
+{
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	font-size: 11px;
+  color: #000000;
+}
+
+#Content h5
+{ 
+  color: #000000;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	font-size: 11px;
+}
+
+#Content table.Full
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#Content table.List tbody tr
+{
+	padding: 5px;
+}
+
+#Content table.List tbody tr td
+{
+	padding: 5px;
+}
+
+#Content th.Title
+{
+	padding: 5px;
+	text-align: left;
+	font-weight: bold;
+	font-size: 13px;
+	color: #000000;
+	background-color: #d9e2f5;
+}
+
+#Content tr
+{
+	margin-bottom: 5px;
+}
+
+#Content tr.Even
+{
+	color: inherit;
+	background-color: #f0f0ec;
+}
+
+#Content tr.Odd
+{
+	color: inherit;
+	background-color: #fcfcf8;
+}
+
+#Content table h2
+{
+	font-size: 14px;
+}
+
+
+#Content .Teaser
+{
+	margin: 5px 0px 0px 0px;
+}
+
+
+/* ----- TABLES -------- */
+
+#Content th p
+{
+    padding: 5px;
+    margin: 0px;
+}
+
+#Content table
+{
+    margin: 1px;
+}
+
+#Content .tdBlue p
+{
+    margin: 2px;
+    padding: 0px;
+}
+
+#Content .tdBeige p
+{
+    margin: 2px;
+    padding: 0px;
+}
+
+#Content table h2
+{
+    font-size: 14px;
+}
+
+#Content .tdBlue h3
+{
+    margin: 2px;
+    padding: 0px;
+}
+
+#Content table.Full
+{
+  width: 98%;
+  border-collapse: collapse;
+}
+
+#Content table.List tbody tr
+{
+  padding: 5px;
+}
+
+#Content table.List tbody tr td
+{
+  padding: 5px;
+}
+
+#Content th.Title
+{
+  padding: 5px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 13px;
+  color: #000000;
+  background-color: #d9e2f5;
+}
+
+
+#Content tr
+{
+  margin-bottom: 5px;
+}
+
+#Content tr.Even
+{
+  color: inherit;
+  background-color: #f0f0ec;
+}
+
+#Content tr.Odd
+{
+  color: inherit;
+  background-color: #fcfcf8;
+}
+
+#Content th
+{
+ 
+  border-style: solid;
+  border-color: #CCCCCC;
+  vertical-align: middle;
+}
+
+#Content td
+{
+
+  border-style: solid;
+  border-color: #CCCCCC;
+  vertical-align: top;
+}
+
+
+
+#Content .tableNoBorder
+{
+  color: inherit;
+  background-color: inherit;
+}
+
+
+#Content .tableNoBorder td
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+#Content .tableNoBorder th
+{
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFFFFF;
+}
+
+#Content .tableBlue
+{
+ color: #FFFFFF;
+ background-color: #4967AA;
+}
+
+#Content .tdBlue
+{
+   color: inherit;
+   background-color: #4967AA;
+}
+#Content .tableBlue td
+{
+  color: inherit;
+  background-color: #4967AA;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableBlue th
+{
+  color: inherit;
+  background-color: #4967AA;
+  text-align: center;
+  border-color: #CCCCCC;
+}
+
+
+#Content .tableBeige
+{
+  color: inherit;
+  background-color: #DCC697;
+}
+
+#Content .tdBeige
+{
+        color: white;
+        background-color: #DCC697;
+}
+
+#Content .tableBeige th
+{
+  color: inherit;
+  background-color: #DCC697;
+  text-align: center;
+  border-color: #FFFFFF;
+}
+
+
+#Content .tableBeige td
+{
+  color: inherit;
+  background-color: #DCC697;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableBlueHeader
+{
+	
+}
+
+
+#Content .tableBlueHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableBlueHeader th
+{
+  color: inherit;
+	background-color: #4967AA;
+  text-align: center;
+  border-top: 0px solid #4967AA;
+  border-right: 0px solid #4967AA;
+  color: #ffffff;
+ 	border-bottom: 1px solid #cccccc;
+  border-left: 0px solid #4967AA;
+}
+
+
+
+#Content .tableBeigeHeader
+{
+  color: #ffffff;
+  background-color: inherit;
+}
+
+
+#Content .tableBeigeHeader td
+{
+  color: #002946;
+  background-color: inherit;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableBeigeHeader th
+{
+    color: inherit;
+    background-color: #DCC697;
+    text-align: center;
+    border-top: 0px solid #DCC698;
+    border-right: 0px solid #DCC698;
+    border-bottom: 1px solid #cccccc;
+    border-left: 0px solid #DCC698;
+}
+
+#Content .tableMarineHeader
+{
+}
+
+
+#Content .tableMarineHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableMarineHeader th
+{
+  color: white;
+	 background-color: #3F5992;
+  text-align: center;
+  border-top: 0px solid #3F5992;
+  border-right: 0px solid #3F5992;
+  border-left: 0px solid #3F5992;
+}
+
+#Content .tableRedHeader
+{
+}
+
+
+#Content .tableRedHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableRedHeader th
+{
+  color: #ffffff;
+  background-color: #760700;
+  text-align: center;
+  border-top: 0px solid #760701;
+  border-right: 0px solid #760701;
+  border-bottom: 1px solid #cccccc;
+  border-left: 0px solid #760701;
+}
+
+#Content .tableOrangeHeader
+{
+}
+
+
+#Content .tableOrangeHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableOrangeHeader th
+{
+  color: #ffffff;
+  background-color: #D26E10;
+  text-align: center;
+  border-top: 0px solid #D26E11;
+  border-right: 0px solid #D26E11;
+  border-bottom: 1px solid #cccccc;
+  border-left: 0px solid #D26E11;
+}
+
+
+#Content .tableGreyBlueHeader
+{
+}
+
+
+#Content .tableGreyBlueHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableGreyBlueHeader th
+{
+  color: #ffffff;
+  background-color: #7389A3;
+  text-align: center;
+  border-top: 0px solid #7389A3;
+  border-right: 0px solid #7389A3;
+  border-bottom: 1px solid #cccccc;
+  border-left: 0px solid #7389A3;
+}
+
+#Content .tableOrangeRedHeader
+{
+}
+
+
+#Content .tableOrangeRedHeader td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+}
+
+#Content .tableOrangeRedHeader th
+{
+  color: #ffffff;
+  background-color: #CB5033;
+  text-align: center;
+  border-top: 0px solid #CB5034;
+  border-right: 0px solid #CB5034;
+  border-bottom: 1px solid #cccccc;
+  border-left: 0px solid #CB5034;
+}
+
+
+
+
+/*-------Custom tags ------------ */
+#Content div.Factbox 
+{
+	background: #ECECE3 url(../../rh/images/fbox_br.html) no-repeat scroll right bottom;
+	margin: 0pt auto 1em;
+}
+
+#Content div.Factbox div.Title 
+{
+	background: #D5D5C2 url(../../rh/images/fbox_hr.html) no-repeat scroll right top;
+	margin: 0pt;
+	padding: 0pt;
+}
+
+#Content div.Factbox div.Content 
+{
+	background: transparent url(../../rh/images/fbox_bl.html) no-repeat scroll left bottom;
+	margin: 0pt;
+	padding: 0.15em 0.5em;
+	text-align: left;
+}
+
+#Content div.Factbox h2 
+{
+	background: transparent url(../../rh/images/fbox_hl.html) no-repeat scroll left top;
+	color: #525345;
+	margin: 0pt;
+	padding: 0.15em 0.5em;
+	text-align: left;
+}
+
+#Content div.BlogItem
+{
+	margin: 0px 0px 15px 0px;
+	padding: 2px;
+	background-color: #FFFFFF;
+	border: 1px solid #EFEFEF;
+	color: inherit;
+}
+
+#Content div.NoBorder
+{
+	border-width: 0px;
+}
+
+#Content div.BlogItem div.Title
+{
+	margin: 0px 0px 10px 0px;
+	padding: 5px;
+	background-color: #EFEFEF;
+	color: inherit;
+}
+
+#Content div.BlogItem div.Title h2
+{
+	margin: 0px;
+	padding: 0px 0px 5px 0px;
+}
+
+#Content div.BlogComment
+{
+	margin: 10px 0px 0px 0px;
+	padding: 1px;
+	border: 1px solid #DEDEDE;
+	background-color: #EFEFEF;
+	color: inherit;
+}
+
+#Content div.BlogComment div.Title
+{
+	margin: 0px;
+	padding: 5px;
+	background-color: #DEDEDE;
+	color: inherit;
+}
+#Content div.BlogComment div.Teaser
+{
+	margin: 0px;
+	padding: 5px;
+}
+
+/*-------soerger for at paragraph laver span i stedet for p ------------ */
+#Content .paragraph-in-editor
+{
+        display:block;
+        margin:0px 0px 10px 0px;
+}
+
+
+/*-------Fact Box ------------ */
+
+
+#Content div.FactBoxLightBlue
+{
+        margin: 0px;
+        padding: 4px;
+			  color: #FFFFFF;
+        background-color: #4967AA;
+        overflow: auto;
+}
+
+#Content div.FactBoxLightBlue p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+
+#Content div.FactBoxBeige
+{
+        margin: 0px;
+        padding: 4px;
+        color: inherit;
+        background-color: #DCC697;
+        overflow: auto;
+}
+
+#Content div.FactBoxBeige p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+
+#Content div.FactBoxGrey
+{
+        margin: 0px;
+        padding: 4px;
+        color: inherit;
+        background-color: #D7D7D1;
+        overflow: auto;
+}
+
+#Content div.FactBoxGrey p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+#Content div.FactBoxGreyBlue
+{
+        margin: 0px;
+        padding: 4px;
+        color: #FFFFFF;
+        background-color: #7389A2;
+        overflow: auto;
+}
+
+#Content div.FactBoxGreyBlue p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+#Content div.FactBoxGreen
+{
+        margin: 0px;
+        padding: 4px;
+        color: #FFFFFF;
+        background-color: #328E9F;
+        overflow: auto;
+}
+
+#Content div.FactBoxGreen p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+#Content div.FactBoxOrangeRed
+{
+        margin: 0px;
+        padding: 4px;
+        color: #FFFFFF;
+        background-color: #CB5033;
+        overflow: auto;
+}
+
+#Content div.FactBoxOrangeRed p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+#Content div.Citation
+{
+        padding: 0px 0px 0px 29px;
+        margin: 15px 20px 5px 15px;
+        color: #9A9A9B;
+        font-size: 16px;
+        background-color: #FFFFFF;
+        font-style: italic;
+        font-weight: bold;
+        overflow: auto;
+        background-image: url('../../cbs/images/citation.html');
+        background-position: top left;
+        background-repeat: no-repeat;
+}
+
+
+#Content div.Citation p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+
+#Content div.CitationRight
+{
+        padding: 20px 0px 0px 0px;
+        margin: 1px 0px 0px 20px;
+        color: #9A9A9B;
+        font-size: 16px;
+        font-style: italic;
+        font-weight: bold;
+        width: 160px;
+        float: right;
+        background-color: #FFFFFF;
+        overflow: auto;
+        background-image: url('../../cbs/images/citation.html');
+        background-position: top left;
+        background-repeat: no-repeat;
+}
+
+#Content div.CitationRight p
+{
+        margin: 2px;
+        padding: 0px;
+}
+
+/*------- VIP & TAB ------------ */
+#Content div.PersonData
+{
+        height: 100%;
+        min-height: 100%;
+        overflow: hidden;
+}
+
+#Content div.PersonData div.Picture
+{
+        position: relative;
+        float: left;
+        top: 0px;
+        width: 105px;
+}
+
+#Content div.PersonData div.Data
+{
+        position: relative;
+        float: left;
+        top: 0px;
+        width: 170px;
+}
+
+#Content div.PersonData div.Links
+{
+        position: relative;
+        float: right;
+        top: 0px;
+        width: 170px;
+}
+
+#Content div.PersonData div.Links ul
+{
+        margin: 0px;
+        padding: 0px;
+}
+
+#Content table.PersonCard
+{
+        width: 98%;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #FFFFFF;
+}
+
+#Content table.PersonCard td
+{
+        border-style: solid;
+        border-width: 1px;
+        border-color: #FFFFFF;
+}
+
+
+/*------- VIDEO ------------ */
+
+
+#Content .videocontainer
+{
+    clear: both;
+    width: auto;
+                display:block;
+}
+
+
+
+.videocontainer a.videolink {
+        display:block;
+        position:relative;
+        text-decoration:none;
+}
+
+.videocontainer .videothumb {
+    margin: 5px 10px 5px 5px;
+}
+
+.videocontainer .videotitletext
+{
+        padding: 0px 0px 0px 5px;
+        display:block;
+}
+
+.videocontainer a .videotitletext
+{
+        color: #000;
+}
+
+.video_left
+{
+                width:50%;
+                float:left;
+}
+
+.video_right
+{
+                float:left;
+                width:49%;
+}
+
+.video_tre
+{
+        float: left;
+        display:block;
+        width: 150px;
+}
+
+.videocontainer .videoplaybutton
+{
+        position:absolute;
+        top: 15px;
+        left: 15px;
+        display:block;
+        opacity:1.0;
+}
+
+.videocontainer .video_tre .videoplaybutton
+{
+        top: 10px;
+        left: 10px;
+}
+
+
+/*------- Listevisning af videoer ------------ */
+
+#Content div.VideoListeContainer
+{
+        position:relative;
+        overflow:auto;
+}
+
+#Content div.VideoPicture .videoplaybutton
+{
+        position:absolute;
+        top: 15px;
+        left: 15px;
+        display:block;
+}
+
+#Content div.VideoPicture
+{
+        position:relative;
+        float: left;
+  width: 215px;
+  overflow: hidden;
+}
+
+#Content div.VideoText
+
+{
+        float: right;
+        width: 240px;
+        overflow:hidden;
+
+}
+
+
+
+
+/*------- CBS i pressen ------------ */
+
+
+#Content div.CBSiPressen
+{
+        border-bottom: 1px solid #002946;
+}
+
+#Content div.CBSiPressenContainer
+{
+        padding:20px 0px;
+        overflow:auto;
+        font-weight: bold;
+}
+
+#Content div.CBSiPressenContainer img
+{
+        float:right;
+        padding:0px 0px 0px 10px;
+}
+
+
+#Content div.imported-rss p strong
+{
+				font-weight: normal;
+				
+}
+
+
+/*--- Generel form --*/
+
+.Form textarea 
+{
+	width:350px;
+}
